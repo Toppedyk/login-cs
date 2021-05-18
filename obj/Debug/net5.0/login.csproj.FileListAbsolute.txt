@@ -1,0 +1,16 @@
+C:\source\codeworks\login\bin\Debug\net5.0\login.exe
+C:\source\codeworks\login\bin\Debug\net5.0\login.deps.json
+C:\source\codeworks\login\bin\Debug\net5.0\login.runtimeconfig.json
+C:\source\codeworks\login\bin\Debug\net5.0\login.runtimeconfig.dev.json
+C:\source\codeworks\login\bin\Debug\net5.0\login.dll
+C:\source\codeworks\login\bin\Debug\net5.0\ref\login.dll
+C:\source\codeworks\login\bin\Debug\net5.0\login.pdb
+C:\source\codeworks\login\obj\Debug\net5.0\login.csprojAssemblyReference.cache
+C:\source\codeworks\login\obj\Debug\net5.0\login.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\login\obj\Debug\net5.0\login.AssemblyInfoInputs.cache
+C:\source\codeworks\login\obj\Debug\net5.0\login.AssemblyInfo.cs
+C:\source\codeworks\login\obj\Debug\net5.0\login.csproj.CoreCompileInputs.cache
+C:\source\codeworks\login\obj\Debug\net5.0\login.dll
+C:\source\codeworks\login\obj\Debug\net5.0\ref\login.dll
+C:\source\codeworks\login\obj\Debug\net5.0\login.pdb
+C:\source\codeworks\login\obj\Debug\net5.0\login.genruntimeconfig.cache
